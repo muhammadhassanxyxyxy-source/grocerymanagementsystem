@@ -1092,6 +1092,4 @@
 		<!-- ============================================================== -->
 
 	</body>
-
-<!-- Mirrored from themezhub.net/live-pecozo/pecozo/home-4.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 03 Feb 2026 09:27:36 GMT -->
 </html>
